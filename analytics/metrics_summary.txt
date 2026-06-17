@@ -1,0 +1,15 @@
+RECOGNITION PERFORMANCE METRICS
+==================================================
+Accuracy  : 66.67%
+Precision : 75.00%  (macro)
+Recall    : 75.00%  (macro)
+F1 Score  : 66.67%  (macro)
+
+              precision    recall  f1-score   support
+
+   Aashutosh       1.00      0.50      0.67         2
+     Unknown       0.50      1.00      0.67         1
+
+    accuracy                           0.67         3
+   macro avg       0.75      0.75      0.67         3
+weighted avg       0.83      0.67      0.67         3
